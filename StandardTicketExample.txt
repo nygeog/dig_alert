@@ -1,0 +1,56 @@
+From: operations@diggershotline.com [mailto:operations@diggershotline.com] 
+Sent: Friday, March 28, 2014 7:04 AM
+To: XYZ COMPANY
+Subject: Diggers Hotline Ticket 122345678912
+
+[ ALERT – External Email – Handle Accordingly ]
+
+Diggers Hotline, Inc. (Wisconsin)
+
+Ticket #:  122345678912   Seq:  2      Previous Ticket #:
+
+Header:  STANDARD                    Type:                  Operator:  123
+
+Start Date   :  03/28/2014      Time: 08:04:00 AM
+
+Call Date    :  03/28/2014      Time: 06:59:56 AM
+Transmit Date:  03/28/2014      Time: 07:04:11 AM
+
+
+Caller: JOHN DOE                               Phone: (555)555-5555
+        XYZ COMPANY     Fax  : (555)555-5559
+        PO BOX 123
+        ANYTOWN
+        WI  123456
+        JDOE@XYZCO.COM
+
+Field Rep.: SAME                                 Phone: (555)555-5555
+
+County : ANYCOUNTY
+Place  : ANYTOWN
+At     :
+Street : ELM ST
+Intersection 1: N 1ST ST
+Intersection 2:
+On the W  side of street and approximately 0.00 FT  S  of Intersection 1
+Latitude NW  42.97429900    Longitude NW  -87.90509400
+Latitude SE  42.97280900    Longitude SE  -87.90282800
+
+Type of Work: PLANTING TREES Working For : SELF
+Explosives:  N   Overhead:  N   Boring Equipment:  N   Premarked:  N
+
+Marking Instructions:
+  MARK A 20 FOOT RADIUS OF THE WHITE STAKES AT THE ABOVE ADDRESS
+
+
+
+
+
+Remarks:
+  NONE
+
+
+
+Members Notified:
+  *XYZ COMPANY  (XYZ01)
+
