@@ -13,8 +13,8 @@ To Do:
 
 (1) Grab other attributes from email txt
 
-(2)Create table
+(2) Create table
 
-(3)Create bounding box from table
+(3) Create bounding box from table
 
 
