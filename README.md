@@ -23,6 +23,7 @@ To Do:
 
 The first part of this solution is to make a rule in Outlook to 'run a script' when I get an email from Digger's Hotline.  You have to add the following vba code in Outlook:
 
+<pre><code>
 Sub DiggersMailMessageRule(Item As Outlook.MailItem)
     Dim str_file As String
     Dim str_subj As String
@@ -47,7 +48,7 @@ Sub DiggersMailMessageRule(Item As Outlook.MailItem)
     End If
     
 End Sub
-
+</code></pre>
 The first part just replaces the spaces of the email's subject line with underscores, saves the email as a text file, and sets the name of the text file as a parameter for the python script.  The second part of the vba code calls the python script and waits for it to finish.
 
 I've attached the python script.  The first part of that just searches and extracts the info I need and the second part writes that info to an existing shapefile.  It was written to work with 9.3.  If it was written for 10x, I'm sure that last part would be shorter.
